@@ -1,0 +1,27 @@
+
+"KS007 - Religion"
+"ONS Crown Copyright Reserved [from Nomis on 26 December 2020]"
+"Population :","All people"
+"Units      :","Persons"
+"Area Type  :","countries"
+"Area Name  :","E92000001 : England"
+
+"row","2001","Religion"
+
+1,49138831,"All categories: Religion"
+2,35251244,"Christian"
+3,139046,"Buddhist"
+4,546982,"Hindu"
+5,257671,"Jewish"
+6,1524887,"Muslim"
+7,327343,"Sikh"
+8,143811,"Other religion"
+9,7171332,"No religion"
+10,3776515,"Religion not stated"
+
+
+
+"","Cells in this dataset have been randomly adjusted to avoid the release"
+"","of confidential data."
+"",""
+

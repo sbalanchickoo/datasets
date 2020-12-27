@@ -1,0 +1,27 @@
+
+"KS007 - Religion"
+"ONS Crown Copyright Reserved [from Nomis on 26 December 2020]"
+"Population :","All people"
+"Units      :","Persons"
+"Area Type  :","parishes 2001"
+"Area Name  :","22UH028 : Loughton"
+
+"row","2001","Religion"
+
+1,30340,"All categories: Religion"
+2,21782,"Christian"
+3,48,"Buddhist"
+4,286,"Hindu"
+5,992,"Jewish"
+6,334,"Muslim"
+7,193,"Sikh"
+8,81,"Other religion"
+9,4397,"No religion"
+10,2227,"Religion not stated"
+
+
+
+"","Cells in this dataset have been randomly adjusted to avoid the release"
+"","of confidential data."
+"",""
+
